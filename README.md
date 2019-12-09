@@ -1,7 +1,5 @@
 # TunnelBot
 
-Final project for CS378 Ethical Hacking. 
-
 Automates creation of reverse SSH tunnels for forwarding connections from 
 Metasploit payloads. 
 
