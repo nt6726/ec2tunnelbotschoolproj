@@ -51,12 +51,6 @@ Launch Meterpreter session after tunnel establishment
 Use wordlists for username and password cracking
 ```
 ./finalproject.py -L <username file> -p <password file> <host ip(s)>
-```
-
-## Authors
-* **Spencer Huff** 
-* **Nathan Tsai**
-* **Aylish Wrench**
-* **Adam Multach**   
+``` 
 
 
